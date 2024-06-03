@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Allie
-- 🎓 Bachelor of Science in Computer Science @ University of Houston MAY 2024
-- ✈️ Software Developer Intern @ American Airlines
-- 🤖 President @ <a href = "https://www.codecoogs.com/"> Code[Coogs] </a>
+- 🎓 Bachelor of Science in Computer Science @ University of Houston 2024
+- ✈️ Software Developer @ American Airlines
+- 🤖 Previous President @ <a href = "https://www.codecoogs.com/"> Code[Coogs] </a>
 - 📫 For professional inquiries <a href = "mailto:arodrigues.tech@outlook.com"> email me </a>
 
 <!---
